@@ -14,6 +14,8 @@ Add changes to stage
 
 #### Git Commit
 
+Merge the stage with the current branch
+
 #### Git Push | Git Push --set-upstream origin [branch-name]
 
 ### Git Branch
