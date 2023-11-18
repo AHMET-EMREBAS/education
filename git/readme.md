@@ -12,13 +12,41 @@ Show the current status of working tree
 
 Add changes to stage
 
+```shell
+  git add .
+```
+
 #### Git Commit
 
 Merge the stage with the current branch
 
-#### Git Push | Git Push --set-upstream origin [branch-name]
+```shell
+ git commit -m'scope: Commit message'
+```
 
 ### Git Branch
+
+Create a new branch
+
+```shell
+    git branch branch-name
+```
+
+Show branches
+
+```shell
+    git branch
+```
+
+#### Git Diff
+
+Show changes
+
+```shell
+    git diff
+```
+
+#### Git Push | Git Push --set-upstream origin [branch-name]
 
 #### Git Stash
 
