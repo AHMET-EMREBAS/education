@@ -38,6 +38,12 @@ Show branches
     git branch
 ```
 
+Delete Branch
+
+```shell
+    git branch -d branch-name
+```
+
 #### Git Diff
 
 Show changes
