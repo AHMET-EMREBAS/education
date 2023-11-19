@@ -1,0 +1,12 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "IO operations in javascript",
+  "main": "io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
